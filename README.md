@@ -89,9 +89,7 @@ This project can be tested using:
 
 📸 Circuit Diagram
 
-Add your circuit image here:
-
-traffic_light.png
+![Circuit Diagram](Project2.png)
 
 🚀 Future Improvements
 
